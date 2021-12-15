@@ -6,7 +6,7 @@ A chrome extension helps you fill form or job application quickly.
 
 ## Installation
 
-1. [Download ZIP](https://github.com/mtobeiyf/form-filler-chrome-extension/archive/master.zip) and upack the file 
+1. [Download ZIP](https://github.com/msquare-2/answer-me/archive/refs/heads/master.zip) and upack the file 
 2. Open Chrome, go to [chrome://extensions/](chrome://extensions/)
 3. Turn on *Developer Mode* on the top right corner
 4. Load unpacked
